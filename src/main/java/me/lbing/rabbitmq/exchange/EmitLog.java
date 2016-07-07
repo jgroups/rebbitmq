@@ -1,4 +1,4 @@
-package me.lbing.rabbitmq.logs;
+package me.lbing.rabbitmq.exchange;
 
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Connection;
