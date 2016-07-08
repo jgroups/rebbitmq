@@ -29,6 +29,7 @@ public class EmitLogDirect {
 
 	private static String getSeverity(String[] argv) {
 		// TODO
+		//info warn error ..
 		return "info";
 	}
 
